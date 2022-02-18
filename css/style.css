@@ -47,13 +47,14 @@
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     height: 80px;
     background-color: blue;
 }
 
 header img {
     margin: 5%;
-    width: 180px;
+    height: 35%;
 }
 
 header button {
