@@ -1,8 +1,44 @@
+/* General */
+
 * {
     box-sizing: border-box;
     margin: 0%;
     padding: 0%;
 }
+
+
+/* utility */
+
+.bg-violet {
+    background-color: violet;
+}
+
+.carblu {
+    background-color: lightskyblue;
+}
+
+.cargreen {
+    background-color: lightgreen;
+}
+
+.carpink {
+    background-color: lightpink;
+}
+
+.caryellow {
+    background-color: lightgoldenrodyellow;
+}
+
+.carsal {
+    background-color: lightsalmon;
+}
+
+.carwhite {
+    background-color: white;
+}
+
+
+/* Content */
 
 header {
     display: flex;
@@ -35,9 +71,9 @@ section {
 }
 
 #card {
-    margin: 25px auto;
+    margin: 30px auto;
     width: 60%;
-    border-radius: 15%;
+    border-radius: 10%;
     text-align: center;
 }
 
@@ -45,22 +81,14 @@ section {
     padding: 3%;
 }
 
-.carblu {
-    background-color: lightskyblue;
+#section-b {
+    padding: 10% 10%;
 }
 
-.cargreen {
-    background-color: lightgreen;
+#section-b h3 {
+    padding: 10% 10%;
 }
 
-.carpink {
-    background-color: lightpink;
-}
-
-.caryellow {
-    background-color: lightgoldenrodyellow;
-}
-
-.carsal {
-    background-color: lightsalmon;
+#section-b p {
+    padding: 10% 10%;
 }
