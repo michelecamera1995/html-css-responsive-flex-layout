@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: blue;
+}
+
+header img {
+    margin: 5%;
+    width: 180px;
+}
+
+header button {
+    margin: 5%;
+    border: none;
+    background-color: transparent;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#section-a {
+    padding-top: 5%;
+    padding-bottom: 15%;
+    width: 100%;
+}
+
+#card {
+    margin: 25px auto;
+    width: 60%;
+    border-radius: 15%;
+    text-align: center;
+}
+
+#card i {
+    padding: 3%;
+}
+
+.carblu {
+    background-color: lightskyblue;
+}
+
+.cargreen {
+    background-color: lightgreen;
+}
+
+.carpink {
+    background-color: lightpink;
+}
+
+.caryellow {
+    background-color: lightgoldenrodyellow;
+}
+
+.carsal {
+    background-color: lightsalmon;
+}
