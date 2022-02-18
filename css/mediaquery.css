@@ -1,72 +1,141 @@
-@media only screen and (min-width: 837px) {
-    #section-a {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        padding-top: 5%;
-        padding-bottom: 15%;
-        max-width: 100%;
-        max-height: 100%;
-    }
-    #card {
-        margin: 30px auto;
-        width: 30%;
-        border-radius: 10%;
-        text-align: center;
-    }
-    #card {
-        margin: 30px auto;
-        width: 30%;
-        border-radius: 10%;
-        text-align: center;
-    }
-    #section-a .big {
-        width: 50%;
-    }
-    #section-c div:not(.undertext) {
-        width: 80%;
-        display: flex;
-        flex-direction: row;
-    }
-    .undertext {
-        display: flex;
-        flex-direction: column;
-        padding: none;
-        margin: none;
-    }
-    #section-c h3 {
-        padding: 0% 0%;
-        width: 100%;
-    }
-    #section-c p {
-        padding: 0% 0%;
-    }
-    #Benefit {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        max-width: 100%;
-        max-height: 100%;
-        padding: 5% 5%;
-    }
-    #section-d {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        max-width: 100%;
-        max-height: 100%;
-        padding: 5% 5%;
-    }
-    #section-e {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        max-width: 100%;
-        max-height: 100%;
-        padding: 10% 10%;
-    }
-    #section-e div {
-        width: 50%;
-        padding: 5%;
-    }
-}
+                                                @media only screen and (min-width: 837px) {
+                                                #section-a {
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    flex-wrap: wrap;
+                                                    padding-top: 5%;
+                                                    padding-bottom: 15%;
+                                                    max-width: 100%;
+                                                    max-height: 100%;
+                                                }
+                                                #card {
+                                                    margin: 30px auto;
+                                                    width: 30%;
+                                                    border-radius: 10%;
+                                                    text-align: center;
+                                                }
+                                                #card {
+                                                    margin: 30px auto;
+                                                    width: 30%;
+                                                    border-radius: 10%;
+                                                    text-align: center;
+                                                }
+                                                #section-a .big {
+                                                    width: 50%;
+                                                }
+                                                #section-c div:not(.undertext) {
+                                                    width: 80%;
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                }
+                                                .undertext {
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                    padding: none;
+                                                    margin: none;
+                                                }
+                                                #section-c h3 {
+                                                    padding: 0% 0%;
+                                                    width: 100%;
+                                                }
+                                                #section-c p {
+                                                    padding: 0% 0%;
+                                                }
+                                                #Benefit {
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    flex-wrap: wrap;
+                                                    max-width: 100%;
+                                                    max-height: 100%;
+                                                    padding: 5% 5%;
+                                                }
+                                                #section-d {
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    flex-wrap: wrap;
+                                                    max-width: 100%;
+                                                    max-height: 100%;
+                                                    padding: 5% 5%;
+                                                }
+                                                #section-e {
+                                                    display: flex;
+                                                    flex-direction: row;
+                                                    flex-wrap: wrap;
+                                                    max-width: 100%;
+                                                    max-height: 100%;
+                                                    padding: 10% 10%;
+                                                }
+                                                #section-e div {
+                                                    width: 50%;
+                                                    padding: 5%;
+                                                }
+                                                @media only screen and (min-width: 1920px) {
+                                                    #section-a {
+                                                        display: flex;
+                                                        flex-direction: row;
+                                                        flex-wrap: wrap;
+                                                        padding: 15% 15%;
+                                                        max-width: 100%;
+                                                        max-height: 100%;
+                                                    }
+                                                    #section-b {
+                                                        display: flex;
+                                                        flex-direction: row;
+                                                    }
+                                                    #card {
+                                                        margin: 30px auto;
+                                                        width: 30%;
+                                                        border-radius: 10%;
+                                                        text-align: center;
+                                                    }
+                                                    #card {
+                                                        margin: 30px auto;
+                                                        width: 30%;
+                                                        border-radius: 10%;
+                                                        text-align: center;
+                                                    }
+                                                    #section-a .big {
+                                                        width: 50%;
+                                                    }
+                                                    #section-c div:not(.undertext) {
+                                                        width: 50%;
+                                                        display: flex;
+                                                        flex-direction: row;
+                                                    }
+                                                    .undertext {
+                                                        display: flex;
+                                                        flex-direction: column;
+                                                        padding: none;
+                                                        margin: none;
+                                                    }
+                                                    #section-c h3 {
+                                                        padding: 0% 0%;
+                                                        width: 100%;
+                                                    }
+                                                    #section-c p {
+                                                        padding: 0% 0%;
+                                                    }
+                                                    #Benefit {
+                                                        display: flex;
+                                                        flex-direction: row;
+                                                        flex-wrap: wrap;
+                                                        max-width: 100%;
+                                                        max-height: 100%;
+                                                        padding: 5% 5%;
+                                                    }
+                                                    #Benefit .card {
+                                                        width: 25%;
+                                                    }
+                                                    #section-e {
+                                                        display: flex;
+                                                        flex-direction: row;
+                                                        flex-wrap: wrap;
+                                                        max-width: 100%;
+                                                        max-height: 100%;
+                                                        padding: 10% 10%;
+                                                    }
+                                                    #section-e div {
+                                                        width: 50%;
+                                                        padding: 5%;
+                                                    }
+                                                }
